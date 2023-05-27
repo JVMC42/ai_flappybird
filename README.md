@@ -2,6 +2,8 @@
 
 Este é um projeto de implementação do jogo Flappy Bird usando a biblioteca Pygame e a biblioteca NEAT (NeuroEvolution of Augmenting Topologies) para treinar uma inteligência artificial para jogar o jogo automaticamente.
 
+![Texto Alternativo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGNhM2FmNjg0MzQzMTRjZjhlMjgzMTBmNDA1NmM4ZmQ0ZjBiZGI1ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/hETbaBiFMbJ0Bb6jHc/giphy.gif)
+
 ## Requisitos
 
 Certifique-se de ter instalado o Python 3.x juntamente com as seguintes bibliotecas:
